@@ -70,10 +70,10 @@ import {
                     {/* second column section */}
                     <div>
                         <ul className='space-y-2'>
-                            <li>Home</li>
-                            <li>About</li>
-                            <li>Contact Us</li>
-                            <li>Privacy Policy</li>
+                            <li>Services/Products</li>
+                            <li>FAQ</li>
+                            <li>Blog/News</li>
+                            <li>Careers</li>
                         </ul>
                     </div>
                 </div>
