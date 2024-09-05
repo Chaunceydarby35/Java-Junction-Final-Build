@@ -29,11 +29,10 @@ import {
                 <h1 className='text-3xl font-bold 
                 uppercase'>Java Junction</h1>
                 <p className='text-sm max-w-[300px]'>
-                    Lorem, ipsum dolor sit amet consectetur 
-                    adipisicing elit. Ut expedita aliquam omnis 
-                    accusantium, vel saepe repellendus aspernatur 
-                    aut praesentium porro eius adipisci nulla, 
-                    odit ab ratione delectus! Adipisci, natus repellat?
+                 Welcome to Java Junction, where every cup of coffee is crafted to perfection.
+                 Whether you need a bold morning brew or a smooth afternoon pick-me-up,
+                 we are your go-to spot for exceptional coffee and a cozy atmosphere. Sip, 
+                 relax, and fuel your day with us!
                 </p>
                 <div>
                     <p className='flex items-center gap-2'>
